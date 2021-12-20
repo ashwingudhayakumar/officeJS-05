@@ -1,0 +1,10 @@
+.slider {
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.slider ul li {
+  width: 500px;
+  height: 300px;
+}
